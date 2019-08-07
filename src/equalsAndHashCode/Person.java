@@ -1,3 +1,5 @@
+package equalsAndHashCode;
+
 public class Person implements Comparable<Person>{
     private String imie;
     private String nazwisko;

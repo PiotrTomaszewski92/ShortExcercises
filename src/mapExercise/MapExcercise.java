@@ -1,3 +1,5 @@
+package mapExercise;
+
 import java.util.*;
 
 public class MapExcercise {
